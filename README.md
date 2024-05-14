@@ -7,4 +7,4 @@ in this project we will focus only on some resources, to understand the mechanis
 Orange is a component-based visual programming software package for data visualization, machine learning, data mining, and data analysis. It offers a lot of pre-installed widgets
 for ML, statistical analysis and more. Orange also offers the possibility of create a personal widget, and that's what was done in this project.
 
-For more instructions for the use of the code, please check the file instructions.txt .
+For more instructions for the use of the code, please check the file ISTRUZIONI.txt .
