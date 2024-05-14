@@ -8,3 +8,4 @@ Orange is a component-based visual programming software package for data visuali
 for ML, statistical analysis and more. Orange also offers the possibility of create a personal widget, and that's what was done in this project.
 
 For more instructions for the use of the code, please check the file ISTRUZIONI.txt .
+In the end we have 3 Orange workflows, that you can open after you run the python code of the widgets and download Orange. 
