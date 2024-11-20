@@ -1,11 +1,7 @@
-La cartella 'Esame Programming-LUIGI MASCOLO' contiene un file PowerPoint con 
-i risultati del progetto, un file word contenente tutti i passaggi 
-dettagliati del progetto. 
-
-Sempre la cartella 'Esame Programming-LUIGI MASCOLO' contiene una
-cartella 'orange-demo' dove sono contenuti: i codici dei vari widgets(nella 
-cartella'orangedemo'), i file FHIR utilizzati per le analisi(cartella 'Dati FHIR')
-e i tre file Orange contenenti i tre workflow realizzati.
+Nella cartella 'orangedemo' sono contenuti i codici dei vari widgets custom, 
+poi abbiamo la cartella Dati FHIR che contiene i file FHIR utilizzati per le analisi
+e poi nella cartella principale del progetto abbiamo i tre file Orange contenenti i 
+tre workflow realizzati.
 
 Per il workflow 1 sarà necessario scaricare l'add-on 'Text Mining' di Orange,
 tale avviso comparirà all'apertura del suddetto workflow.
